@@ -1,0 +1,64 @@
+commit a568a897ecd2bc2271da30176d6eb2fd07776000
+Merge: 496adfd 97bc4ee
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:27:24 2024 -0700
+
+    Finished merge
+
+commit 496adfdb960e4c2e6da0c00f210f07a9be87f53c
+Merge: c4a9a91 5457a1e
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:21:33 2024 -0700
+
+    Intentional merge conflict
+
+commit 5457a1ef6fcd028c0b099e55090fde7c2a7e2a27
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:19:12 2024 -0700
+
+    Added movie message to index
+
+commit c4a9a912afba2403a3e40a07a3c3efb3bdcf6359
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:17:42 2024 -0700
+
+    Added new div line
+
+commit a8a6e04e2d8f798b56c49ef2407bec0465b63b90
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:07:43 2024 -0700
+
+    Added div line to index
+
+commit 97bc4ee3e1d7d365566d99f134004c674cd74dc2
+Author: Lester Low <82683703+llow5861@users.noreply.github.com>
+Date:   Wed Aug 28 15:00:12 2024 -0700
+
+    made README.md for clean repo
+
+commit a78efe694fb9b99fcd260f623bfbf1327764789c
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 14:53:28 2024 -0700
+
+    Commit README file
+
+commit 65fb17e612c008e8337a97ea81ce201083b42179
+Merge: 1d2bfc0 c2a4359
+Author: Lester Low <82683703+llow5861@users.noreply.github.com>
+Date:   Wed Aug 28 14:51:46 2024 -0700
+
+    Merge pull request #1 from llow5861/info-fill
+    
+    Changed index file
+
+commit c2a435968efcb0232dab8e68ccd245198694d680
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 14:35:36 2024 -0700
+
+    Changed index file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
