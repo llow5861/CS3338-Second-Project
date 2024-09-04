@@ -1,0 +1,135 @@
+commit 74c890eb458a2e4a3c8d48a80ae3ed65de06d035
+Merge: c883f23 18ea961
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Sep 4 14:36:33 2024 -0700
+
+    Finished commit
+
+commit c883f236eb9d87869e8b9aea1c864a01ab540680
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Sep 4 14:36:11 2024 -0700
+
+    Added git log
+
+commit 18ea9615c466f4986d7586c85f2c1c8f46a1ddf0
+Merge: 4d32ac4 51e0372
+Author: Lester Low <82683703+llow5861@users.noreply.github.com>
+Date:   Wed Sep 4 14:31:03 2024 -0700
+
+    Merge pull request #2 from llow5861/feature-about-me
+    
+    Feature about me
+
+commit 51e03726c62ae9426f07fd042e349df685c85b19
+Merge: 6dab494 4d32ac4
+Author: Lester Low <82683703+llow5861@users.noreply.github.com>
+Date:   Wed Sep 4 14:30:42 2024 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 6dab494925103a7f0dfdecb7c45cf913afc36b48
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Sep 4 14:21:13 2024 -0700
+
+    Updated index
+    
+    Added my information
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 4d32ac42ba5982aba2b7fca403eccbc7a9fdea7a
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:30:53 2024 -0700
+
+    Added log and repo location files
+
+commit a568a897ecd2bc2271da30176d6eb2fd07776000
+Merge: 496adfd 97bc4ee
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:27:24 2024 -0700
+
+    Finished merge
+
+commit 496adfdb960e4c2e6da0c00f210f07a9be87f53c
+Merge: c4a9a91 5457a1e
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:21:33 2024 -0700
+
+    Intentional merge conflict
+
+commit 5457a1ef6fcd028c0b099e55090fde7c2a7e2a27
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:19:12 2024 -0700
+
+    Added movie message to index
+
+commit c4a9a912afba2403a3e40a07a3c3efb3bdcf6359
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:17:42 2024 -0700
+
+    Added new div line
+
+commit a8a6e04e2d8f798b56c49ef2407bec0465b63b90
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:07:43 2024 -0700
+
+    Added div line to index
+
+commit 97bc4ee3e1d7d365566d99f134004c674cd74dc2
+Author: Lester Low <82683703+llow5861@users.noreply.github.com>
+Date:   Wed Aug 28 15:00:12 2024 -0700
+
+    made README.md for clean repo
+
+commit a78efe694fb9b99fcd260f623bfbf1327764789c
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 14:53:28 2024 -0700
+
+    Commit README file
+
+commit 65fb17e612c008e8337a97ea81ce201083b42179
+Merge: 1d2bfc0 c2a4359
+Author: Lester Low <82683703+llow5861@users.noreply.github.com>
+Date:   Wed Aug 28 14:51:46 2024 -0700
+
+    Merge pull request #1 from llow5861/info-fill
+    
+    Changed index file
+
+commit c2a435968efcb0232dab8e68ccd245198694d680
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 14:35:36 2024 -0700
+
+    Changed index file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
