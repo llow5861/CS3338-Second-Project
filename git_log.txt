@@ -1,3 +1,9 @@
+commit 4d32ac42ba5982aba2b7fca403eccbc7a9fdea7a
+Author: Lester Low <llow5861@gmail.com>
+Date:   Wed Aug 28 15:30:53 2024 -0700
+
+    Added log and repo location files
+
 commit a568a897ecd2bc2271da30176d6eb2fd07776000
 Merge: 496adfd 97bc4ee
 Author: Lester Low <llow5861@gmail.com>
